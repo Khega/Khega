@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Nikita
-- 👀 I’m interested in code
-- 🌱 I’m currently learning  to school
-- 💞️ I’m looking to collaborate on microsoft and facebook
 - 📫 My mail "khegay.nik@gmail.com"
 
 <!---
